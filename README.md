@@ -1,4 +1,4 @@
 <div id="header" align="center">
-  <img src="https://giphy.com/gifs/app-in-the-air-cute-vaccine-vaccination-2GBfKwJ7bypANDoqRt" width="100"/>
+  <img src="https://media0.giphy.com/media/2GBfKwJ7bypANDoqRt/giphy.gif?cid=ecf05e47ynp79l4t7gj2osbuas1b9p41tqqymv9prruvhfy9&rid=giphy.gif&ct=g" width="100"/>
 
 </div>
