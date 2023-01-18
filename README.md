@@ -17,9 +17,9 @@ In addition to my SOC experience, I am also a skilled penetration tester, profic
 
 Currently i am collaborating on Research project titled: **[Implementing DevSecOps Tool Chain Based on Open-Source Technology](https://docs.google.com/document/d/1EYviTY9TFPjmz9Md7zm4cE0co9mtLuZUbIWd82nhrhM/edit?disco=AAAAnaxfE_I)** 
 
-- 📝 I regularly write articles on [https://www.notion.so/ayomideshoyemi/5fc3641431364811b03d76aa846e26d1](https://www.notion.so/ayomideshoyemi/5fc3641431364811b03d76aa846e26d1)
+- 📝 I regularly write articles on [https://www.notion.so/ayomideshoyemi/5fc3641431364811b03d76aa846e26d1](https://www.notion.so/ayomideshoyemi)
 
-- 💬 Ask me about **DFIR, Arcsight, Qradar, Alienvault, Splunk, Carbonblack, Netwitness, Darktrace, Routing & Switching, Windows Administration, Virtualization, Docker, Jenkins, CircleCI, IaaC, Penetration testing, CTFs**
+- 💬 Ask me about **DFIR, Malware Analysis, Penetration testing, Arcsight, Qradar, Alienvault, Splunk, Carbonblack, Netwitness, Darktrace, Routing & Switching, Windows Administration, Virtualization, Docker, Jenkins, CircleCI, IaaC, ModSecurity WAF, CTFs**
 
 - 📫 How to reach me **ayomideshoyemi@yahoo.com**
 
@@ -66,11 +66,5 @@ Currently i am collaborating on Research project titled: **[Implementing DevSecO
 
 </br>
 
----
-
-### GitHub Stats
-[![Ayomide's Github Stats](https://github-readme-stats.vercel.app/api?username=haelmj&theme=tokyonight&show_icons=true&count_private=true&include_all_commits=true)](https://github.com/davidayomide/github-readme-stats)
-[![Languages Used](https://github-readme-stats.vercel.app/api/top-langs/?username=davidayomide&layout=compact&langs_count=8)](https://github.com/davidayomide/github-readme-stats)
-[![trophy](https://github-profile-trophy.vercel.app/?username=haelmj&theme=dracula&title=Followers,Issues,Commit,PullRequest,Repositories,Stars)](https://github.com/ryo-ma/github-profile-trophy)
 
 <!--
