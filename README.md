@@ -26,7 +26,7 @@ Currently i am collaborating on Research project titled: **[Implementing DevSecO
 
 ### Reach out to me for:
 - *Security Consultation*
-- *Malware Analysis**
+- *Malware Analysis*
 - *DFIR*
 - *DevSecOps*
 - *Penetration Testing*
