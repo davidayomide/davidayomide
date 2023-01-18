@@ -1,4 +1,4 @@
 <div id="header" align="center">
-  <img src="https://giphy.com/gifs/NexusBlockchain-xSOiV4VkBFNM9RzBM7" width="100"/>
+  <img src="https://giphy.com/gifs/motion-graphics-animated-gif-mograph-doXBzUFJRxpaUbuaqz" width="100"/>
 
 </div>
