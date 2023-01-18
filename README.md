@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+  <img src="https://giphy.com/gifs/computer-mograph-hack-077i6AULCXc0FKTj9s" width="100"/>
 
 </div>
 
@@ -26,7 +26,10 @@ Currently i am collaborating on Research project titled: **[Implementing DevSecO
 
 ### Reach out to me for:
 - *Security Consultation*
+- *Malware Analysis**
+- *DFIR*
 - *DevSecOps*
+- *Penetration Testing*
 
 
 ### Contact Me
