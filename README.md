@@ -15,7 +15,7 @@ I have several industry-standard certifications, including but not limited to Co
 
 In addition to my SOC experience, I am also a skilled penetration tester, proficient in identifying and exploiting vulnerabilities in systems and networks. I also engage in DevSecOps practices, working closely with development and operations teams to integrate security considerations into the software development lifecycle.
 
-Currently i am collaborating on Research project titled: Implementing DevSecOps Tool Chain Based on Open-Source Technology https://docs.google.com/document/d/1EYviTY9TFPjmz9Md7zm4cE0co9mtLuZUbIWd82nhrhM/edit?disco=AAAAnaxfE_I 
+Currently i am collaborating on Research project titled: **[Implementing DevSecOps Tool Chain Based on Open-Source Technology](https://docs.google.com/document/d/1EYviTY9TFPjmz9Md7zm4cE0co9mtLuZUbIWd82nhrhM/edit?disco=AAAAnaxfE_I)** 
 
 - 📝 I regularly write articles on [https://www.notion.so/ayomideshoyemi/5fc3641431364811b03d76aa846e26d1](https://www.notion.so/ayomideshoyemi/5fc3641431364811b03d76aa846e26d1)
 
