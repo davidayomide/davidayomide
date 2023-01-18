@@ -21,7 +21,7 @@ In addition to my SOC experience, I am also a skilled penetration tester, profic
 
 - 💬 Ask me about **DFIR, Malware Analysis, Penetration testing, Arcsight, Qradar, Alienvault, Splunk, Carbonblack, Netwitness, Darktrace, Routing & Switching, Windows Administration, Cloud Computing (AWS), Virtualization, Docker, Jenkins, CircleCI, IaaC, ModSecurity WAF, CTFs**
 
-- 📫 How to reach me **ayomideshoyemi@yahoo.com**
+- 📫 How to reach me **ayomideshoyu@gmail.com**
 
 
 ### Reach out to me for:
