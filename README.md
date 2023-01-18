@@ -4,28 +4,25 @@
 </div>
 
 
-
-
-
 ## Hi, I'm Shoyemi Ayomide 👋🏽
 
 ![Twitter Follow](https://img.shields.io/twitter/follow/hael_mj?color=%231DA1F2&logo=twitter&style=for-the-badge)
 
-I am an experienced Cybersecurity practicioner and Infrastructure Engineer. I come from a technical background which has seen me wear different hats through out my career as the need arises. 
+I am an experienced Senior Cybrsecurity Analyst and Infrastructure Engineer. I come from a technical background which has seen me wear different hats through out my career as the need arises. 
 
-I love to spend time researching into Security whether that's finding vulnerabilities in software, learning best practices, trying to understand the cause behind certain trends or even just staying up to date with what's happening in the security space.
+I love to spend time researching into Security whether that's finding vulnerabilities in software, learning best practices, trying to understand the cause behind certain trends or even just staying up to date with what's happening in the cybersecurity space.
 
+I am currently pursuing an Msc degree in Secure systems and Network Engineering at Innopolis University. Despite being a student, I have substantial experience working in a Managed security service providing company (MSSP). 
 
-I am experienced Senior Cybersecurity Analyst and Infrastructure Engineer who is currently pursuing a Masters of science in Secure systems and Network Engineering at Innopolis University. Despite being a student, I have substantial experience working in a Managed security service providing company (MSSP). Currently, I have several industry-standard certifications, including CompTIA Cybersecurity Analyst (CYSA+), Security Blue (BTL1) e.t.c. and i am well-versed in various cybersecurity practices.
+I have several industry-standard certifications, including but not limited to CompTIA Cybersecurity Analyst (CYSA+), Security Blue (BTL1) and i am well-versed in various cybersecurity practices.
 
 In addition to my SOC experience, I am also a skilled penetration tester, proficient in identifying and exploiting vulnerabilities in systems and networks. I also engage in DevSecOps practices, working closely with development and operations teams to integrate security considerations into the software development lifecycle.
 
-
-- I spend most of my breaking and fixing stuffs.
+Currently i am collaborating on Research project titled: Implementing DevSecOps Tool Chain Based on Open-Source Technology https://docs.google.com/document/d/1EYviTY9TFPjmz9Md7zm4cE0co9mtLuZUbIWd82nhrhM/edit?disco=AAAAnaxfE_I 
 
 - 📝 I regularly write articles on [https://www.notion.so/ayomideshoyemi/5fc3641431364811b03d76aa846e26d1](https://www.notion.so/ayomideshoyemi/5fc3641431364811b03d76aa846e26d1)
 
-- 💬 Ask me about ** DFIR, Arcsight, Qradar, Alienvault, Splunk, Carbonblack, Netwitness, Darktrace, Routing & Switching, Windows Administration, Virtualization, Docker, Jenkins, CircleCI, IaaC, Penetration testing, CTFs**
+- 💬 Ask me about **DFIR, Arcsight, Qradar, Alienvault, Splunk, Carbonblack, Netwitness, Darktrace, Routing & Switching, Windows Administration, Virtualization, Docker, Jenkins, CircleCI, IaaC, Penetration testing, CTFs**
 
 - 📫 How to reach me **ayomideshoyemi@yahoo.com**
 
