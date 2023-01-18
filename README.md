@@ -6,13 +6,10 @@
 
 ## Hi, I'm Shoyemi Ayomide 👋🏽
 
-![Twitter Follow](https://img.shields.io/twitter/follow/hael_mj?color=%231DA1F2&logo=twitter&style=for-the-badge)
 
-I am an experienced Senior Cybrsecurity Analyst and Infrastructure Engineer. I come from a technical background which has seen me wear different hats through out my career as the need arises. 
+I am an experienced Senior Cybrsecurity Analyst at a leading MSSP in Africa and Infrastructure Security Engineer who is currently pursuing an Msc degree in Secure systems and Network Engineering at Innopolis University. I come from a technical background which has seen me wear different hats through out my career as the need arises. 
 
-I love to spend time researching into Security whether that's finding vulnerabilities in software, learning best practices, trying to understand the cause behind certain trends or even just staying up to date with what's happening in the cybersecurity space.
-
-I am currently pursuing an Msc degree in Secure systems and Network Engineering at Innopolis University. Despite being a student, I have substantial experience working in a Managed security service providing company (MSSP). 
+I love to spend time researching into Security whether that's finding vulnerabilities in software, learning best practices, trying to understand the cause behind certain trends or even just staying up to date with what's happening in the cybersecurity space. 
 
 I have several industry-standard certifications, including but not limited to CompTIA Cybersecurity Analyst (CYSA+), Security Blue (BTL1) and i am well-versed in various cybersecurity practices.
 
