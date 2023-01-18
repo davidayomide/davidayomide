@@ -11,7 +11,7 @@
 
 ![Twitter Follow](https://img.shields.io/twitter/follow/hael_mj?color=%231DA1F2&logo=twitter&style=for-the-badge)
 
-I am an experienced Cybersecurity practicioner and Infrastructure Engineer. I come from a technical background in both Software and Infrastructure Engineering which has seen me wear different hats through out my career as the need arises. 
+I am an experienced Cybersecurity practicioner and Infrastructure Engineer. I come from a technical background which has seen me wear different hats through out my career as the need arises. 
 
 I love to spend time researching into Security whether that's finding vulnerabilities in software, learning best practices, trying to understand the cause behind certain trends or even just staying up to date with what's happening in the security space.
 
@@ -21,7 +21,7 @@ I am experienced Senior Cybersecurity Analyst and Infrastructure Engineer who is
 In addition to my SOC experience, I am also a skilled penetration tester, proficient in identifying and exploiting vulnerabilities in systems and networks. I also engage in DevSecOps practices, working closely with development and operations teams to integrate security considerations into the software development lifecycle.
 
 
-- I spend most of my lerning something new 
+- I spend most of my breaking and fixing stuffs.
 
 - 📝 I regularly write articles on [https://www.notion.so/ayomideshoyemi/5fc3641431364811b03d76aa846e26d1](https://www.notion.so/ayomideshoyemi/5fc3641431364811b03d76aa846e26d1)
 
@@ -76,7 +76,7 @@ In addition to my SOC experience, I am also a skilled penetration tester, profic
 
 ### GitHub Stats
 [![Ayomide's Github Stats](https://github-readme-stats.vercel.app/api?username=haelmj&theme=tokyonight&show_icons=true&count_private=true&include_all_commits=true)](https://github.com/davidayomide/github-readme-stats)
-[![Languages Used](https://github-readme-stats.vercel.app/api/top-langs/?username=haelmj&layout=compact&langs_count=8)](https://github.com/davidayomide/github-readme-stats)
+[![Languages Used](https://github-readme-stats.vercel.app/api/top-langs/?username=davidayomide&layout=compact&langs_count=8)](https://github.com/davidayomide/github-readme-stats)
 [![trophy](https://github-profile-trophy.vercel.app/?username=haelmj&theme=dracula&title=Followers,Issues,Commit,PullRequest,Repositories,Stars)](https://github.com/ryo-ma/github-profile-trophy)
 
 <!--
