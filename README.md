@@ -15,14 +15,19 @@ I am an experienced Cybersecurity practicioner and Infrastructure Engineer. I co
 
 I love to spend time researching into Security whether that's finding vulnerabilities in software, learning best practices, trying to understand the cause behind certain trends or even just staying up to date with what's happening in the security space.
 
-- https://www.notion.so/ayomideshoyemi/5fc3641431364811b03d76aa846e26d1
 
-- I spend most of my time lerning on either Security Blue Teams Labs or 
+I am experienced Senior Cybersecurity Analyst and Infrastructure Engineer who is currently pursuing a Masters of science in Secure systems and Network Engineering at Innopolis University. Despite being a student, I have substantial experience working in a Managed security service providing company (MSSP). Currently, I have several industry-standard certifications, including CompTIA Cybersecurity Analyst (CYSA+), Security Blue (BTL1) e.t.c. and i am well-versed in various cybersecurity practices.
+
+In addition to my SOC experience, I am also a skilled penetration tester, proficient in identifying and exploiting vulnerabilities in systems and networks. I also engage in DevSecOps practices, working closely with development and operations teams to integrate security considerations into the software development lifecycle.
+
+
+- I spend most of my lerning something new 
 
 - 📝 I regularly write articles on [https://www.notion.so/ayomideshoyemi/5fc3641431364811b03d76aa846e26d1](https://www.notion.so/ayomideshoyemi/5fc3641431364811b03d76aa846e26d1)
-- 💬 Ask me about ** DFIR, Arcsight, Qradar, Alienvault, Splunk, Carbonblack, Netwitness, Darktrace, Routing & Switching, Windows Administration, Virtualization, Docker, Jenkins, CircleCI, IaaC, Penetration testing, CTFs**
-- 📫 How to reach me **ayomideshoyemi@yahoo.com**
 
+- 💬 Ask me about ** DFIR, Arcsight, Qradar, Alienvault, Splunk, Carbonblack, Netwitness, Darktrace, Routing & Switching, Windows Administration, Virtualization, Docker, Jenkins, CircleCI, IaaC, Penetration testing, CTFs**
+
+- 📫 How to reach me **ayomideshoyemi@yahoo.com**
 
 
 ### Reach out to me for:
