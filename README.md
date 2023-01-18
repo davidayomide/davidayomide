@@ -7,7 +7,7 @@
 ## Hi, I'm Shoyemi Ayomide 👋🏽
 
 
-I am an experienced Senior Cybrsecurity Analyst at a leading MSSP in Africa and Infrastructure Security Engineer who is currently pursuing an Msc degree in Secure systems and Network Engineering at Innopolis University. I come from a technical background which has seen me wear different hats through out my career as the need arises. 
+An experienced Senior Cybrsecurity Analyst at a leading MSSP in Africa and Infrastructure Security Engineer who is currently pursuing an Msc degree in Secure systems and Network Engineering at Innopolis University. I come from a technical background which has seen me wear different hats through out my career as the need arises. 
 
 I love to spend time researching into Security whether that's finding vulnerabilities in software, learning best practices, trying to understand the cause behind certain trends or even just staying up to date with what's happening in the cybersecurity space. 
 
