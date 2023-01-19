@@ -19,7 +19,7 @@ In addition to my SOC experience, I am also a skilled penetration tester, profic
 
 - 📝 I regularly write articles on [https://www.notion.so/ayomideshoyemi/5fc3641431364811b03d76aa846e26d1](https://www.notion.so/ayomideshoyemi)
 
-- 💬 Ask me about **DFIR, Malware Analysis, Penetration testing, Arcsight, Qradar, Alienvault, Splunk, Carbonblack, Netwitness, Darktrace, Routing & Switching, Windows Administration, Cloud Computing (AWS), Virtualization, Docker, Jenkins, CircleCI, IaaC, ModSecurity WAF, CTFs**
+- 💬 Ask me about **DFIR, Malware Analysis, Penetration testing, Arcsight, Qradar, Alienvault, Splunk, Carbonblack, Netwitness, Darktrace, Routing & Switching, Windows Administration, Cloud Computing (AWS), Virtualization, Docker, Jenkins, CircleCI, IaaC, Network Security, CTFs**
 
 - 📫 How to reach me **ayomideshoyu@gmail.com**
 
