@@ -33,7 +33,7 @@ I love to spend time researching into Security whether that's finding vulnerabil
  <img align="left" alt="Ayomide Shoyemi | LinkedIn" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
 
-<a href="mailto:ayomideshoyu@gmail.com">
+<a href="mailto:...">
  <img align="left" alt="Email" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg"/>
 </a>
 </br>
