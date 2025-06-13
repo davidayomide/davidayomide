@@ -15,9 +15,9 @@ I love to spend time researching into Security whether that's finding vulnerabil
 
 - 📝 I regularly write articles on [https://www.notion.so/ayomideshoyemi](https://www.notion.so/ayomideshoyemi)
 
-- 💬 Ask me about **DFIR, Malware Analysis, Penetration testing, Arcsight, Qradar, Alienvault, Splunk, Carbonblack, Netwitness, Darktrace, Routing & Switching, Windows Administration, Cloud Computing (AWS), Virtualization, Docker, Jenkins, CircleCI, IaaC, Network Security, CTFs**
+- 💬 Ask me about **Threat Detection, DFIR (Digital Forensics and Incident Response), Malware Analysis, Penetration Testing, SIEM platforms (ArcSight, QRadar, AlienVault, Splunk), EDR solutions (Carbon Black), Network Monitoring (NetWitness, Darktrace), Routing & Switching, Windows Administration, Cloud Computing (AWS), Virtualization, Docker, CI/CD tools (Jenkins, CircleCI), Infrastructure as Code (IaC), Network Security, and Capture The Flag (CTF) challenges**
 
-- 📫 How to reach me **ayomideshoyu@gmail.com**
+- 📫 How to reach me **...**
 
 
 ### Reach out to me for:
